@@ -1,0 +1,21 @@
+print("hello world!")
+sum=(1 + 2 +3+
+     4+ 5 +6+7)
+my_integer_variable=1000
+print(type(my_integer_variable))
+my_float_variable=3.5
+print(type(my_float_variable))
+my_complex_variable=1+2j
+print(type(my_complex_variable))
+my_variable='This is a string variable!'
+m=my_variable[0:5]
+a='ti'
+b='na'
+s=a+b
+s1='ti''na'
+s2=''.join([a,b])
+s3=f'{a}{b}'
+s4='{}{}'.format(a,b)
+#a.append(b)
+#a+=b
+
